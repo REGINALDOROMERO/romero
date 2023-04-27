@@ -1,3 +1,925 @@
 reginaldo
 
 samucgms
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ dir
+3D\ Objects              Cisco\ Packet\ Tracer\ 8.0.1  Dados\ de\ Aplicativos  Favorites              Meus\ Documentos  NTUSER.DAT{53b39e88-18c4-1
+Ambiente\ de\ Impressão  Configurações\ Locais         Desktop                 IntelGraphicsProfiles  Modelos           NTUSER.DAT{53b39e88-18c4-1
+Ambiente\ de\ Rede       Contacts                      Documents               Links                  Music             NTUSER.DAT{53b39e88-18c4-1
+AppData                  Cookies                       Downloads               Menu\ Iniciar          NTUSER.DAT        Nova\ pasta
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd C:\Users\horlab307\Desktop
+bash: cd: C:Usershorlab307Desktop: No such file or directory
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ C:\Users\horlab307\Desktop
+bash: C:Usershorlab307Desktop: command not found
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ Users\horlab307\Desktop
+bash: Usershorlab307Desktop: command not found
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd Users\horlab307\Desktop
+bash: cd: Usershorlab307Desktop: No such file or directory
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd desktop
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop
+$ dir
+01\ Terá\ facilidades\ para\ polegar.docx  GitHub\ Desktop.lnk                        Novo\ Documento\ de\ Texto.txt                Segunda\ Entre
+192.168.22.22.lnk                          ICONE\ IMAGENS\ -\ Pesquisa\ Google.html   Novo(a)\ Documento\ do\ Microsoft\ Word.docx  UcmaRuntimeSet
+456.png                                    ICONE\ IMAGENS\ -\ Pesquisa\ Google_files  Pessoa\ 1\ -\ Chrome.lnk                      WampServer64.l
+789.png                                    J.E.A                                      Projeto_hotel_lorem\ -\ Atalho.lnk            Windows10_PRO_
+Aos\ cuidados\ da\ Sra\ [\ pedroo.docx     Layout\ de\ Rede.pkt                       Roblox\ Player.lnk                            Wireshark.lnk
+CÓDIGO                                     Navegador\ Opera\ GX.lnk                   Roblox\ Studio.lnk                            benites\ -\ Ch
+Galeria                                    Nova\ pasta                                SD\ Henrique\ -\ Website                      contrato.png
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop
+$ cd código
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$ DIR
+GITTXT.docx
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$ CD ..
+bash: CD: command not found
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$ cd ..
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop
+$ cd..
+bash: cd..: command not found
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop
+$ cd ..
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ dir
+3D\ Objects              Cisco\ Packet\ Tracer\ 8.0.1  Dados\ de\ Aplicativos  Favorites              Meus\ Documentos  NTUSER.DAT{53b39e88-18c4-1
+Ambiente\ de\ Impressão  Configurações\ Locais         Desktop                 IntelGraphicsProfiles  Modelos           NTUSER.DAT{53b39e88-18c4-1
+Ambiente\ de\ Rede       Contacts                      Documents               Links                  Music             NTUSER.DAT{53b39e88-18c4-1
+AppData                  Cookies                       Downloads               Menu\ Iniciar          NTUSER.DAT        Nova\ pasta
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd conf
+bash: cd: conf: No such file or directory
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd confi
+bash: cd: confi: No such file or directory
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd con
+bash: cd: con: No such file or directory
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd config
+bash: cd: config: No such file or directory
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd desktop
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop
+$ cd ..
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ dir
+3D\ Objects              Cisco\ Packet\ Tracer\ 8.0.1  Dados\ de\ Aplicativos  Favorites              Meus\ Documentos  NTUSER.DAT{53b39e88-18c4-1
+Ambiente\ de\ Impressão  Configurações\ Locais         Desktop                 IntelGraphicsProfiles  Modelos           NTUSER.DAT{53b39e88-18c4-1
+Ambiente\ de\ Rede       Contacts                      Documents               Links                  Music             NTUSER.DAT{53b39e88-18c4-1
+AppData                  Cookies                       Downloads               Menu\ Iniciar          NTUSER.DAT        Nova\ pasta
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd meu\ iniciar
+bash: cd: meu iniciar: No such file or directory
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd M
+Menu Iniciar/    Meus Documentos/ Modelos/         Music/
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd M
+Menu Iniciar/    Meus Documentos/ Modelos/         Music/
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd M
+Menu Iniciar/    Meus Documentos/ Modelos/         Music/
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd M
+Menu Iniciar/    Meus Documentos/ Modelos/         Music/
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd M
+Menu Iniciar/    Meus Documentos/ Modelos/         Music/
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd M
+Menu Iniciar/    Meus Documentos/ Modelos/         Music/
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd M
+Menu Iniciar/    Meus Documentos/ Modelos/         Music/
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd M
+Menu Iniciar/    Meus Documentos/ Modelos/         Music/
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd M
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd Me
+Menu Iniciar/    Meus Documentos/
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd Menu Iniciar
+bash: cd: too many arguments
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd Menu Iniciar/
+bash: cd: too many arguments
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd Menu Iniciar/
+bash: cd: too many arguments
+
+horlab307@HORLAB307-30086 MINGW64 ~
+$ cd desktop
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop
+$ cd c
+CÓDIGO/       contrato.png
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop
+$ cd código
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$ dir
+GITTXT.docx
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$ cd ..
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop
+$ cd código
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$ gitiniti
+bash: gitiniti: command not found
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$ git initi
+git: 'initi' is not a git command. See 'git --help'.
+
+The most similar command is
+        init
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$ git init
+Initialized empty Git repository in C:/Users/horlab307/Desktop/CÓDIGO/.git/
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ dir
+GITTXT.docx  desktop.ini
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        GITTXT.docx
+        desktop.ini
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        GITTXT.docx
+        desktop.ini
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git add GITTXT
+fatal: pathspec 'GITTXT' did not match any files
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ GIT STATUS
+git: 'STATUS' is not a git command. See 'git --help'.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        GITTXT.docx
+        desktop.ini
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git add GITTXT.docx
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   GITTXT.docx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        desktop.ini
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   GITTXT.docx
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GITTXT.docx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        desktop.ini
+        ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   GITTXT.docx
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GITTXT.docx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        desktop.ini
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ dir
+GITTXT.docx  desktop.ini
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ dir
+GITTXT.docx  desktop.ini
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   GITTXT.docx
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GITTXT.docx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        desktop.ini
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   GITTXT.docx
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GITTXT.docx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        desktop.ini
+        ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ dir
+GITTXT.docx  desktop.ini  ~$GITTXT.docx
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   GITTXT.docx
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GITTXT.docx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        desktop.ini
+        ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ GIT STATUS
+git: 'STATUS' is not a git command. See 'git --help'.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   GITTXT.docx
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GITTXT.docx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        GIT2.txt
+        GIT3.rtf
+        desktop.ini
+        ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   GITTXT.docx
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GITTXT.docx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        GIT2.txt
+        GIT3.rtf
+        desktop.ini
+        ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git add..
+git: 'add..' is not a git command. See 'git --help'.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git add .
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   GIT2.txt
+        new file:   GIT3.rtf
+        new file:   GITTXT.docx
+        new file:   desktop.ini
+        new file:   ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git commit -m "first commit"
+[master (root-commit) c1be031] first commit
+ Committer: Horto - Laboratório 307 <horlab307@senacmsedu.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 5 insertions(+)
+ create mode 100644 GIT2.txt
+ create mode 100644 GIT3.rtf
+ create mode 100644 GITTXT.docx
+ create mode 100644 desktop.ini
+ create mode 100644 ~$GITTXT.docx
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git log
+commit c1be03125665e97657010308976f3c4c948441ae (HEAD -> master)
+Author: Horto - Laboratório 307 <horlab307@senacmsedu.local>
+Date:   Thu Apr 27 14:53:01 2023 -0400
+
+    first commit
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ dir
+GIT2.txt  GIT3.rtf  GITTXT.docx  desktop.ini  ~$GITTXT.docx
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git branch
+* master
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git branch "teste"
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git branch
+* master
+  teste
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git checkout
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git checkout teste
+Switched to branch 'teste'
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git branch
+  master
+* teste
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$
+Display all 5028 possibilities? (y or n)
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git branch
+  master
+* teste
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git status
+On branch teste
+nothing to commit, working tree clean
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git status
+On branch teste
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GIT2.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git add .
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git status
+On branch teste
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   GIT2.txt
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git commit "first "
+error: pathspec 'first ' did not match any file(s) known to git
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git status
+On branch teste
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   GIT2.txt
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git merge
+fatal: No remote for the current branch.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git merge master
+Already up to date.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git status
+On branch teste
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   GIT2.txt
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git status
+On branch teste
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   GIT2.txt
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GIT2.txt
+        deleted:    ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git config user.name
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (teste)
+$ git checkout master
+Switched to branch 'master'
+M       GIT2.txt
+D       ~$GITTXT.docx
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ dir
+GIT2.txt  GIT3.rtf  GITTXT.docx  desktop.ini
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   GIT2.txt
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   GIT2.txt
+        deleted:    ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git add .
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   GIT2.txt
+        deleted:    ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git config user.name
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote add origin https://github.com/REGINALDOROMERO/romero.git~
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   GIT2.txt
+        deleted:    ~$GITTXT.docx
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git commit -m "first 02"
+[master fc796c1] first 02
+ Committer: Horto - Laboratório 307 <horlab307@senacmsedu.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 3 insertions(+)
+ delete mode 100644 ~$GITTXT.docx
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ ^C
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git config --global user.name "REGINALDOROMERO"
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git config --global user.email reginaldoromero@gmail.com
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+remote: Repository not found.
+fatal: repository 'https://github.com/REGINALDOROMERO/romero.git~/' not found
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote add origin https://github.com/REGINALDOROMERO/romero.git
+error: remote origin already exists.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git commit -m "first 02"
+On branch master
+nothing to commit, working tree clean
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git config --global user.email reginaldoromero@gmail.com
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git config --global user.name "REGINALDOROMERO"
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git config --global user.email reginaldoromero@gmail.com
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+remote: Repository not found.
+fatal: repository 'https://github.com/REGINALDOROMERO/romero.git~/' not found
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote add origin https://github.com/REGINALDOROMERO/romero.git
+error: remote origin already exists.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote mr origin
+error: unknown subcommand: `mr'
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename [--[no-]progress] <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote add origin https://github.com/REGINALDOROMERO/romero.git
+error: remote origin already exists.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+remote: Repository not found.
+fatal: repository 'https://github.com/REGINALDOROMERO/romero.git~/' not found
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote mr origin
+error: unknown subcommand: `mr'
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename [--[no-]progress] <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote rm origin
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote add origin https://github.com/REGINALDOROMERO/romero.git
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (10/10), 9.83 KiB | 9.83 MiB/s, done.
+Total 10 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/REGINALDOROMERO/romero.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+Everything up-to-date
+branch 'master' set up to track 'origin/master'.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+Everything up-to-date
+branch 'master' set up to track 'origin/master'.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote rm origin
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote add origin https://github.com/REGINALDOROMERO/romero.git
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+Everything up-to-date
+branch 'master' set up to track 'origin/master'.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote rm origin
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote add origin https://github.com/REGINALDOROMERO/romero.git
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+Everything up-to-date
+branch 'master' set up to track 'origin/master'.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote add origin https://github.com/REGINALDOROMERO/romero.git
+error: remote origin already exists.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote add origin https://github.com/REGINALDOROMERO/romero.git
+error: remote origin already exists.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote rm origin
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git remote add origin https://github.com/REGINALDOROMERO/romero.git
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$ git push -u origin master
+Everything up-to-date
+branch 'master' set up to track 'origin/master'.
+
+horlab307@HORLAB307-30086 MINGW64 ~/desktop/código (master)
+$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
