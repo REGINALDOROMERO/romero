@@ -1,4 +1,4 @@
-TRIBUTOS
+﻿TRIBUTOS
 Onde é aplicado o dinheiro arrecadado com a cobrança de impostos?
 Tudo que é arrecadado vira receita.
 De acordo com o Ministério da Economia, não há nada muito específico quanto ao gasto dos recursos do IR, ou seja, ele pode ser usado livremente. 
@@ -23,5 +23,7 @@ Os recursos obtidos por meio do Pis são usados para o custeio do seguro-desempr
 O resultado da arrecadação da Cofins é direcionado para a manutenção dos gastos relacionados à Previdência Social
 
 •	Imposto sobre Produtos Industrializados (IPI)
+
+teste
 
 
